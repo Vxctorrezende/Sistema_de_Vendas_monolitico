@@ -1,0 +1,8 @@
+D:\Documentos\UniFasar Engenharia de Software\4 PERIODO\Projeto de Software\Sistema de Vendas\SistemaDeVendas\SistemaDeVendas\obj\Debug\SistemaDeVendas.csproj.AssemblyReference.cache
+D:\Documentos\UniFasar Engenharia de Software\4 PERIODO\Projeto de Software\Sistema de Vendas\SistemaDeVendas\SistemaDeVendas\obj\Debug\SistemaDeVendas.csproj.CoreCompileInputs.cache
+D:\Documentos\UniFasar Engenharia de Software\4 PERIODO\Projeto de Software\Sistema de Vendas\SistemaDeVendas\SistemaDeVendas\bin\Debug\SistemaDeVendas.exe.config
+D:\Documentos\UniFasar Engenharia de Software\4 PERIODO\Projeto de Software\Sistema de Vendas\SistemaDeVendas\SistemaDeVendas\bin\Debug\SistemaDeVendas.exe
+D:\Documentos\UniFasar Engenharia de Software\4 PERIODO\Projeto de Software\Sistema de Vendas\SistemaDeVendas\SistemaDeVendas\bin\Debug\SistemaDeVendas.pdb
+D:\Documentos\UniFasar Engenharia de Software\4 PERIODO\Projeto de Software\Sistema de Vendas\SistemaDeVendas\SistemaDeVendas\obj\Debug\SistemaDeVendas.exe
+D:\Documentos\UniFasar Engenharia de Software\4 PERIODO\Projeto de Software\Sistema de Vendas\SistemaDeVendas\SistemaDeVendas\obj\Debug\SistemaDeVendas.pdb
+D:\Documentos\UniFasar Engenharia de Software\4 PERIODO\Projeto de Software\Sistema de Vendas\SistemaDeVendas\SistemaDeVendas\obj\Debug\SistemaDeVendas.exe.config
